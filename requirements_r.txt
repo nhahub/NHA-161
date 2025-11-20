@@ -1,0 +1,8 @@
+# R package requirements
+readxl
+writexl
+caret
+randomForest
+MASS
+klaR
+psych
